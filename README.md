@@ -31,7 +31,7 @@ The following **additional** features are implmented:
 
 Here's a walkthrough of implementation stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='video walkthrough' width='' alt='video walkthrough' />
+<img src='walthrough.gif' title='video walkthrough' width='' alt='video walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
